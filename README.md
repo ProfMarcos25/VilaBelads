@@ -1,5 +1,47 @@
 # VilaBelads
-## Backlog
+Passo a Passo clonar repositorio no git
+
+https://www.youtube.com/watch?v=5ctmK6fV1NQ
+
+
+
+# ================================================== 
+#         Site para emojis
+# ==================================================
+
+ https://github.com/iuricode/padroes-de-commits
+
+
+# ================================================== 
+#         TROCA DE IDIOMA VS CODE
+# ==================================================
+
+
+https://docs.google.com/document/d/1-Lr8JvT1GD85s-YP_bgY61DouRySSnBZ_pso6trTM4Y/edit?usp=sharing
+
+# ================================================== 
+#        Comandos Git
+# ==================================================
+
+git init
+
+git config --global user.email <E-mail do Auno no git>
+git config --global user.name <Login do Aluno no git>
+
+git status
+
+git add .
+
+git commit -m ":tada: Commit Inicial"
+
+git branch -M main
+
+git remote add origin https://github.com/ProfMarcos25/VilaBelads.git
+
+git push -u origin main
+
+
+## Backlog - ATIVIDADES PARA SEREM DESENVOLVIDAS 
 
 Tarefa (User Story)	Descrição Técnica	Prioridade
 T01 - Paleta de Cores e Fontes	Definir variáveis CSS para cores e importar fontes do Google Fonts para padronizar o site.	
