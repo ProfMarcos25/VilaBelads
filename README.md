@@ -4,9 +4,9 @@ Passo a Passo clonar repositorio no git
 https://www.youtube.com/watch?v=5ctmK6fV1NQ
 
 
-
+# =============
 #         Site para emojis
-# ==================================================
+# =================
 
  https://github.com/iuricode/padroes-de-commits
 
