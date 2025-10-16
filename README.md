@@ -14,25 +14,6 @@ Passo a Passo clonar repositorio no git
  ✨ [Clique aqui para acessar a documentação!](https://docs.google.com/document/d/1-Lr8JvT1GD85s-YP_bgY61DouRySSnBZ_pso6trTM4Y/edit?usp=sharing) ✨
 
 
-#        Comandos Git
-
-git init
-
-git config --global user.email <E-mail do Auno no git>
-git config --global user.name <Login do Aluno no git>
-
-git status
-
-git add .
-
-git commit -m ":tada: Commit Inicial"
-
-git branch -M main
-
-git remote add origin https://github.com/ProfMarcos25/VilaBelads.git
-
-git push -u origin main
-
 
 # 🚀 Projeto: Site da Sala de Desenvolvimento de Sistemas
 
@@ -71,7 +52,17 @@ Antes de começar, cada aluno deve seguir este passo:
 
 
 ```bash
-git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git
+git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git)
+
+```
+
+
+**1.1 Identificação de Usuario** identifique seu nome de usuario ou EMAIL:
+
+
+```bash
+git config --global user.email <E-mail do Auno no git>
+git config --global user.name <Login do Aluno no git>
 
 ```
 
@@ -144,3 +135,56 @@ T07 - Responsividade (Mobile)	Garantir que o site seja visualmente agradável em
 T08 - Botão "Voltar ao Topo"	Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.	
 
 Projeto para o 2 DS escola Estadual Vila Bela
+
+
+
+#        Comandos Git
+
+```bash
+git init
+
+
+```
+```bash
+
+
+
+git config --global user.email <E-mail do Auno no git>
+git config --global user.name <Login do Aluno no git>
+
+```
+```bash
+
+git status
+```
+```bash
+git add .
+
+```
+```bash
+git commit -m ":tada: Commit Inicial"
+
+```
+```bash
+git branch -M <A sua Squard>
+
+```
+git remote add origin https://github.com/ProfMarcos25/VilaBelads.git
+
+```bash
+git push -u origin sua squard
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
