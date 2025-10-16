@@ -1,5 +1,5 @@
 # VilaBelads
-P
+
 # 🚀 Projeto: Site da Sala de Desenvolvimento de Sistemas
 
 Bem-vindos ao repositório oficial do nosso site! Este não é apenas um projeto para criar uma página web, mas uma jornada para aprendermos a trabalhar como times de desenvolvimento de verdade, utilizando ferramentas e metodologias do mercado.
