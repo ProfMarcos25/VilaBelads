@@ -1,20 +1,5 @@
 # VilaBelads
-Passo a Passo clonar repositorio no git
-
-
-[Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
-
-
-#         Site para emojis
-
- ✨ [Clique aqui para acessar o site de emojis do git!](https://github.com/iuricode/padroes-de-commits)
-
-#         TROCA DE IDIOMA VS CODE
-
- ✨ [Clique aqui para acessar a documentação!](https://docs.google.com/document/d/1-Lr8JvT1GD85s-YP_bgY61DouRySSnBZ_pso6trTM4Y/edit?usp=sharing) ✨
-
-
-
+P
 # 🚀 Projeto: Site da Sala de Desenvolvimento de Sistemas
 
 Bem-vindos ao repositório oficial do nosso site! Este não é apenas um projeto para criar uma página web, mas uma jornada para aprendermos a trabalhar como times de desenvolvimento de verdade, utilizando ferramentas e metodologias do mercado.
@@ -22,8 +7,6 @@ Bem-vindos ao repositório oficial do nosso site! Este não é apenas um projeto
 ### ✨ [Clique aqui para ver o site no ar!](https://profmarcos25.github.io/VilaBelads/) ✨
 
 [![Deploy to GitHub Pages](https://github.com/ProfMarcos25/VilaBelads/actions/workflows/deploy.yml/badge.svg)](https://github.com/ProfMarcos25/VilaBelads/actions/workflows/deploy.yml)
-
-
 
 ---
 
@@ -135,6 +118,23 @@ T07 - Responsividade (Mobile)	Garantir que o site seja visualmente agradável em
 T08 - Botão "Voltar ao Topo"	Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.	
 
 Projeto para o 2 DS escola Estadual Vila Bela
+
+
+
+asso a Passo clonar repositorio no git
+
+
+[Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
+
+
+#         Site para emojis
+
+ ✨ [Clique aqui para acessar o site de emojis do git!](https://github.com/iuricode/padroes-de-commits)
+
+#         TROCA DE IDIOMA VS CODE
+
+ ✨ [Clique aqui para acessar a documentação!](https://docs.google.com/document/d/1-Lr8JvT1GD85s-YP_bgY61DouRySSnBZ_pso6trTM4Y/edit?usp=sharing) ✨
+
 
 
 
