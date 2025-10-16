@@ -4,23 +4,20 @@ Passo a Passo clonar repositorio no git
 https://www.youtube.com/watch?v=5ctmK6fV1NQ
 
 
-# =
+
 #         Site para emojis
-# =
+
 
  https://github.com/iuricode/padroes-de-commits
 
 
-# =
+
 #         TROCA DE IDIOMA VS CODE
-# =
 
-
+Link to the sample section: [https://docs.google.com/document/d/1-Lr8JvT1GD85s-YP_bgY61DouRySSnBZ_pso6trTM4Y/edit?usp=sharing](#sample-section)
 https://docs.google.com/document/d/1-Lr8JvT1GD85s-YP_bgY61DouRySSnBZ_pso6trTM4Y/edit?usp=sharing
 
-# =
 #        Comandos Git
-# =
 
 git init
 
