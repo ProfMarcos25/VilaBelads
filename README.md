@@ -74,8 +74,12 @@ Antes de começar, cada aluno deve seguir este passo:
 
 **1. Clone o Repositório:** Faça o download do projeto para a sua máquina.
 
+
+
 ```bash
 git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git
+
+```
 
 
 ## 🛠️ Preparando o Ambiente (Setup Inicial)
@@ -83,31 +87,32 @@ git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/Pr
 **2. Crie sua Branch de Trabalho:** Nunca trabalhe diretamente na branch main. Crie uma branch específica para a sua tarefa.
 
 
-```bash
-git checkout -b <nome-da-branch>
 
+```bash
+git checkout -b <nome-da-SQUARD>
+
+```
 
 **3. Mão na Massa!** gora sim, você pode abrir o vs Code e começar a desenvolver! Salve seu progresso com frequência mensagens de commit devem ser claras e curtas.
+
 ```bash
 git add .
 
+```
 
 **4. Salve as alterações na Branch !** salve seu progresso com frequência mensagens de commit devem ser claras e curta
 
 ```bash
 git commit -m " 1 commit FEITO COM SUCESSO !! "
 
+```
 
 **5. Push para sua Branch **
 
 ```bash
 git push origin <nome da sua squad>
 
-
-**6. Push para sua Branch **
-
-```bash
-git push origin <nome da sua squad>
+```
 
 
 **Passo 6: Revisão e Merge Aguarde o feedback.**
