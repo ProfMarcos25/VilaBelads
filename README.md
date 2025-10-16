@@ -147,6 +147,13 @@ git init
 ```
 ```bash
 
+```bash
+
+git pull origin main
+
+
+```
+
 
 
 git config --global user.email <E-mail do Auno no git>
