@@ -73,39 +73,41 @@ O objetivo é evoluir, em 6 semanas, o site da nossa sala, aplicando os seguinte
 Antes de começar, cada aluno deve seguir este passo:
 
 **1. Clone o Repositório:** Faça o download do projeto para a sua máquina.
+
 ```bash
-git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git)```
+git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git
 
 
+## 🛠️ Preparando o Ambiente (Setup Inicial)
 
 **2. Crie sua Branch de Trabalho:** Nunca trabalhe diretamente na branch main. Crie uma branch específica para a sua tarefa.
 
 
 ```bash
-git checkout -b <nome-da-branch>```
+git checkout -b <nome-da-branch>
 
 
 **3. Mão na Massa!** gora sim, você pode abrir o vs Code e começar a desenvolver! Salve seu progresso com frequência mensagens de commit devem ser claras e curtas.
 ```bash
-git add .``
+git add .
 
 
 **4. Salve as alterações na Branch !** salve seu progresso com frequência mensagens de commit devem ser claras e curta
 
 ```bash
-git commit -m " 1 commit FEITO COM SUCESSO !! "```
+git commit -m " 1 commit FEITO COM SUCESSO !! "
 
 
 **5. Push para sua Branch **
 
 ```bash
-git push origin <nome da sua squad>```
+git push origin <nome da sua squad>
 
 
 **6. Push para sua Branch **
 
 ```bash
-git push origin <nome da sua squad>```
+git push origin <nome da sua squad>
 
 
 **Passo 6: Revisão e Merge Aguarde o feedback.**
@@ -118,11 +120,11 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 
 
 
-| Squad | Integrantes |
-| :---  |        :--- |
+| Squad             |                                                                              Integrantes                        |
+| :----------------:|:--------------------------------------------------------------------------------------------------------------- |
 | **Squad Quantum** | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA |
 | **Squad Nexus**   | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR GOMES DE LIMA |
-| **Squad Cipher**  | WILLIAM GABRIEL DOS SANTOS SILVA, JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE JESUS SANTANA |
+| **Squad Cipher**  | WILLIAM GABRIEL DOS SANTOS SILVA, JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE     JESUS SANTANA |
 | **Squad Vector** | HENRIQUE LUIZ DE SOUSA, DAVID GABRIEL BATISTA GALVAO, CARLOS EDUARDO PRADO MACEDO, CLARISSE PAES DE LI, MARIA FERNANDA ALVES MARTINS |
 
 
@@ -139,7 +141,7 @@ T03 - Cards de Destaque	Transformar os itens da seção "Sobre a Sala" em cards 
 T04 - Efeitos nos Projetos	Adicionar um efeito de hover sutil nos cards de projeto (ex: leve zoom na imagem, sombra).	
 T05 - Cards de Equipe	Estilizar a seção "Equipe" para que cada membro seja um card com nome e função.	
 T06 - Rodapé Melhorado	Adicionar ícones de redes sociais (links para o GitHub, por exemplo) no rodapé.	
-T07 - Responsividade (Mobile)	Garantir que o site seja visualmente agradável em telas de celular (menu hambúrguer, etc.).	
+T07 - Responsividade (Mobile)	Garantir que o site seja visualmente agradável em telas de celular (menu , etc.).	
 T08 - Botão "Voltar ao Topo"	Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.	
 
 Projeto para o 2 DS escola Estadual Vila Bela
