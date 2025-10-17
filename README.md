@@ -11,7 +11,8 @@ Bem-vindos ao repositório oficial do nosso site! Este não é apenas um projeto
 ---
 
 ## 🎯 Nosso Desafio
-O objetivo é evoluir, em 6 semanas, o site da nossa sala, aplicando os seguintes conceitos:
+
+O objetivo é evoluir, em 6 semanas usando 1 aula por semana o site da nossa sala, aplicando os seguintes conceitos:
 
 * 🔄 **Modelo Ágil:** Trabalharemos em Sprints semanais, com entregas contínuas.
 * 🌳 **Git & GitHub Flow:** Aprenderemos a colaborar em equipe, usando branches, Pull Requests e Code Reviews.
@@ -31,8 +32,6 @@ O objetivo é evoluir, em 6 semanas, o site da nossa sala, aplicando os seguinte
 Antes de começar, cada aluno deve seguir este passo:
 
 **1. Clone o Repositório:** Faça o download do projeto para a sua máquina.
-
-
 
 ```bash
 git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git)
