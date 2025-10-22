@@ -92,31 +92,31 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 
 
 
-| Squad             |                                                                              Integrantes                        |
-| :----------------:|:--------------------------------------------------------------------------------------------------------------- |
-| **Squad Quantum** | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA |
-| **Squad Nexus**   | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR GOMES DE LIMA |
-| **Squad Cipher**  | WILLIAM GABRIEL DOS SANTOS SILVA, JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE     JESUS SANTANA |
-| **Squad Vector** | HENRIQUE LUIZ DE SOUSA, DAVID GABRIEL BATISTA GALVAO, CARLOS EDUARDO PRADO MACEDO, CLARISSE PAES DE LI, MARIA FERNANDA ALVES MARTINS |
 
 
-
+|       **Squad**       | **Integrantes** |
+|:---------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Squad Quantum**     | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA |
+| **Squad Nexus**       | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR GOMES DE LIMA |
+| **Squad Cipher**      | WILLIAM GABRIEL DOS SANTOS SILVA, JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE JESUS SANTANA |
+| **Squad Nova**        | HENRIQUE LUIZ DE SOUSA, DAVID GABRIEL BATISTA GALVÃO, CARLOS EDUARDO PRADO MACEDO, CLARISSE PAES DE LI, MARIA FERNANDA ALVES MARTINS |
+``
 
 
 
 ## Backlog - ATIVIDADES PARA SEREM DESENVOLVIDAS 
 
-Tarefa (User Story)	Descrição Técnica	Prioridade
-T01 - Paleta de Cores e Fontes	Definir variáveis CSS para cores e importar fontes do Google Fonts para padronizar o site.	
-T02 - Header Interativo	Fazer o header mudar de cor (de transparente para sólido) quando o usuário rolar a página.	
-T03 - Cards de Destaque	Transformar os itens da seção "Sobre a Sala" em cards com ícones (ex: Font Awesome).	
-T04 - Efeitos nos Projetos	Adicionar um efeito de hover sutil nos cards de projeto (ex: leve zoom na imagem, sombra).	
-T05 - Cards de Equipe	Estilizar a seção "Equipe" para que cada membro seja um card com nome e função.	
-T06 - Rodapé Melhorado	Adicionar ícones de redes sociais (links para o GitHub, por exemplo) no rodapé.	
-T07 - Responsividade (Mobile)	Garantir que o site seja visualmente agradável em telas de celular (menu , etc.).	
-T08 - Botão "Voltar ao Topo"	Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.	
-
-Projeto para o 2 DS escola Estadual Vila Bela
+| Tarefa (User Story)         | Descrição Técnica                                                                 | Prioridade |
+|:----------------------------|:----------------------------------------------------------------------------------|:----------:|
+| **T01 - Paleta de Cores e Fontes** | Definir variáveis CSS para cores e importar fontes do Google Fonts para padronizar o site. |            |
+| **T02 - Header Interativo**        | Fazer o header mudar de cor (de transparente para sólido) quando o usuário rolar a página. |            |
+| **T03 - Cards de Destaque**        | Transformar os itens da seção "Sobre a Sala" em cards com ícones (ex: Font Awesome).       |            |
+| **T04 - Efeitos nos Projetos**     | Adicionar um efeito de hover sutil nos cards de projeto (ex: leve zoom na imagem, sombra). |            |
+| **T05 - Cards de Equipe**          | Estilizar a seção "Equipe" para que cada membro seja um card com nome e função.            |            |
+| **T06 - Rodapé Melhorado**         | Adicionar ícones de redes sociais (links para o GitHub, por exemplo) no rodapé.            |            |
+| **T07 - Responsividade (Mobile)**  | Garantir que o site seja visualmente agradável em telas de celular (menu , etc.).          |            |
+| **T08 - Botão "Voltar ao Topo"**   | Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.   |            |
+``
 
 
 
@@ -136,46 +136,73 @@ asso a Passo clonar repositorio no git
 
 
 
-
 #        Comandos Git
+
+## Atualizar pasta iniciando git
 
 ```bash
 git init
 
 
 ```
-```bash
+## Atualizar Arquivos de arcordo com a branch main
 
 ```bash
-
 git pull origin main
 
-
 ```
+## Informa os dados de Login e E-mail para o Git
 
-
+```bash
 
 git config --global user.email <E-mail do Auno no git>
-git config --global user.name <Login do Aluno no git>
+
 
 ```
+
+## Informa os dados de Login e E-mail para o Git
+
+```bash
+
+git config --global user.name <Login do Aluno no git>
+
+
+```
+
+## Informa o status do repositorio
+
 ```bash
 
 git status
 ```
+
+## Adiciona arquivos modificados na Branch temporaria
+
 ```bash
 git add .
 
 ```
+## Commita os arquivos(  Prepara , embala para enviar )
+
 ```bash
 git commit -m ":tada: Commit Inicial"
 
 ```
+
+## Cria Sua Branch para o seu grupo de acordo com a tabela 
+
 ```bash
 git branch -M <A sua Squard>
 
 ```
-git remote add origin https://github.com/ProfMarcos25/VilaBelads.git
+## Vincula ao repositorio original 
+
+```bash
+git remote add origin https://github.com/ProfMarcos25/IguatemiDS.git
+
+```
+
+## Envia arquivos para o Repositorio
 
 ```bash
 git push -u origin sua squard
