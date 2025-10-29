@@ -135,7 +135,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 |   SCRUM MASTER     |        VICMAR                                             |
 |   PRODUCT OWNER    |        MARIA EDUARDA                                      |
 |   PRODUCT OWNER    |        CARLOS                                             |
-|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
+|   DESENVOLVEDORES  |        TODOS OS ALUNOS    o                                |
 ``
 
 
