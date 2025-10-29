@@ -105,9 +105,12 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 |       **Squad**       | **Integrantes** |
 |:---------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 <<<<<<< HEAD
+<<<<<<< HEAD
 | **Squad Quantum**     | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA |
 | **Squad Nexus**       | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR|
 =======
+=======
+>>>>>>> 73c4b6ed77f5e6ec08181b0aef27d3f8567eea0c
 | **Squad Quantum**     | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA, YASMIM SIQUEIRA LEITE|
 | **Squad Nexus**       | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR GOMES DE LIMA |
 >>>>>>> 73c4b6ed77f5e6ec08181b0aef27d3f8567eea0c
