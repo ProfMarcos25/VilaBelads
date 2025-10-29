@@ -43,7 +43,15 @@ git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/Pr
 
 
 ```bash
+
 git config --global user.email <E-mail do Auno no git>
+
+
+```
+
+
+```bash
+
 git config --global user.name <Login do Aluno no git>
 
 ```
@@ -96,8 +104,13 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 
 |       **Squad**       | **Integrantes** |
 |:---------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+<<<<<<< HEAD
 | **Squad Quantum**     | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA |
 | **Squad Nexus**       | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR|
+=======
+| **Squad Quantum**     | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA, YASMIM SIQUEIRA LEITE|
+| **Squad Nexus**       | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR GOMES DE LIMA |
+>>>>>>> 73c4b6ed77f5e6ec08181b0aef27d3f8567eea0c
 | **Squad Cipher**      | WILLIAM GABRIEL DOS SANTOS SILVA, JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE JESUS SANTANA |
 | **Squad Nova**        | HENRIQUE LUIZ DE SOUSA, DAVID GABRIEL BATISTA GALVÃO, CARLOS EDUARDO PRADO MACEDO, CLARISSE PAES DE LI, MARIA FERNANDA ALVES MARTINS |
 ``
@@ -118,9 +131,20 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **T08 - Botão "Voltar ao Topo"**   | Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.   |            |
 ``
 
+|       FUNÇÃO       |                        ALUNO                        |
+|:------------------:|:---------------------------------------------------------:|
+|   SCRUM MASTER     |        MARIA FERNANDA                                     |
+|   SCRUM MASTER     |        HANNA                                              |
+|   SCRUM MASTER     |        RAYNE                                              |
+|   SCRUM MASTER     |        CLARISSE                                           |
+|   SCRUM MASTER     |        VICMAR                                             |
+|   PRODUCT OWNER    |        MARIA EDUARDA                                      |
+|   PRODUCT OWNER    |        CARLOS                                             |
+|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
+``
 
 
-asso a Passo clonar repositorio no git
+Passo a Passo clonar repositorio no git
 
 
 [Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
