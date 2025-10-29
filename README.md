@@ -85,7 +85,7 @@ git commit -m " 1 commit FEITO COM SUCESSO !! "
 **5. Push para sua Branch **
 
 ```bash
-git push origin <nome da sua squad>
+git push origin <nome da sua squad
 
 ```
 
@@ -106,7 +106,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 |:---------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Squad Quantum**     | ANA CLARA ARAUJO SILVA, BEATRIZ DE MELO DOS SANTOS, MARIA EDUARDA MYRANDA DOS SANTOS, RAYANE ARIEL GOMES VIEIRA, YASMIM SIQUEIRA LEITE|
 | **Squad Nexus**       | HANNA CLARA DE OLIVEIRA ALVES, ALEJANDRA ANDREA CALAMANI SAENZ, ARTHUR GOMES DE LIMA |
-| **Squad Cipher**      | WILLIAM GABRIEL DOS SANTOS SILVA, JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE JESUS SANTANA |
+| **Squad Cipher**      | WILLIAM ok , JOSÉ ÉVERTON GALDINO DA SILVA, RAFAEL KRAJUSKA, VICMAR GERALDO CUEVAS LUQUE, WALLACE DE JESUS SANTANA |
 | **Squad Nova**        | HENRIQUE LUIZ DE SOUSA, DAVID GABRIEL BATISTA GALVÃO, CARLOS EDUARDO PRADO MACEDO, CLARISSE PAES DE LI, MARIA FERNANDA ALVES MARTINS |
 ``
 
