@@ -43,7 +43,15 @@ git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/Pr
 
 
 ```bash
+
 git config --global user.email <E-mail do Auno no git>
+
+
+```
+
+
+```bash
+
 git config --global user.name <Login do Aluno no git>
 
 ```
@@ -118,9 +126,20 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **T08 - Botão "Voltar ao Topo"**   | Criar um botão que aparece no canto da tela e leva o usuário de volta ao topo da página.   |            |
 ``
 
+|       FUNÇÃO       |                        ALUNO                        |
+|:------------------:|:---------------------------------------------------------:|
+|   SCRUM MASTER     |        MARIA FERNANDA                                     |
+|   SCRUM MASTER     |        HANNA                                              |
+|   SCRUM MASTER     |        RAYNE                                              |
+|   SCRUM MASTER     |        CLARISSE                                           |
+|   SCRUM MASTER     |        VICMAR                                             |
+|   PRODUCT OWNER    |        MARIA EDUARDA                                      |
+|   PRODUCT OWNER    |        CARLOS                                             |
+|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
+``
 
 
-asso a Passo clonar repositorio no git
+Passo a Passo clonar repositorio no git
 
 
 [Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
