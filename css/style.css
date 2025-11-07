@@ -64,7 +64,15 @@ h2 {
 .site-header .logo {
     font-size: 1.5rem;
     font-weight: bold;
+
 }
+
+.site-header .logo img {
+    width: 100px;   /* Define a largura da imagem */
+    height: 100px;   /* Mantém a proporção original da imagem */
+    max-width: 100%; /* Garante que a imagem seja responsiva */
+}
+
 
 .site-header .main-nav ul {
     list-style: none;
