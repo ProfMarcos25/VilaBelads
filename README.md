@@ -6,7 +6,6 @@ Bem-vindos ao repositório oficial do nosso site! Este não é apenas um projeto
 
 ### ✨ [Clique aqui para ver o site no ar!](https://profmarcos25.github.io/VilaBelads/) ✨
 
-[![Deploy to GitHub Pages](https://github.com/ProfMarcos25/VilaBelads/actions/workflows/deploy.yml/badge.svg)](https://github.com/ProfMarcos25/VilaBelads/actions/workflows/deploy.yml)
 
 ---
 
@@ -37,6 +36,15 @@ Antes de começar, cada aluno deve seguir este passo:
 git clone [https://github.com/ProfMarcos25/VilaBelads.git](https://github.com/ProfMarcos25/VilaBelads.git)
 
 ```
+
+
+**1. ATUALIZAÇÃO FAZER TODOD DIA ANTES DE INCIAR O DESENVOLVIMENTO:** 
+
+```bash
+git pull origin ProfSquard
+
+```
+
 
 
 **1.1 Identificação de Usuario** identifique seu nome de usuario ou EMAIL:
