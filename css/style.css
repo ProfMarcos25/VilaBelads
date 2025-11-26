@@ -213,6 +213,7 @@ h1, h2, h3, h4 {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 30px;
     text-align: center;
+    align-items: start;
 }
 
 .destaque-item {
